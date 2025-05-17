@@ -1,0 +1,7 @@
+/Users/serenayarguc/Desktop/IlkCSharpProjem/KullaniciWebApi/obj/Debug/net9.0/KullaniciWebApiOrnek.csproj.AssemblyReference.cache
+/Users/serenayarguc/Desktop/IlkCSharpProjem/KullaniciWebApi/obj/Debug/net9.0/KullaniciWebApiOrnek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serenayarguc/Desktop/IlkCSharpProjem/KullaniciWebApi/obj/Debug/net9.0/KullaniciWebApiOrnek.AssemblyInfoInputs.cache
+/Users/serenayarguc/Desktop/IlkCSharpProjem/KullaniciWebApi/obj/Debug/net9.0/KullaniciWebApiOrnek.AssemblyInfo.cs
+/Users/serenayarguc/Desktop/IlkCSharpProjem/KullaniciWebApi/obj/Debug/net9.0/KullaniciWebApiOrnek.csproj.CoreCompileInputs.cache
+/Users/serenayarguc/Desktop/IlkCSharpProjem/KullaniciWebApi/obj/Debug/net9.0/KullaniciWebApiOrnek.MvcApplicationPartsAssemblyInfo.cs
+/Users/serenayarguc/Desktop/IlkCSharpProjem/KullaniciWebApi/obj/Debug/net9.0/KullaniciWebApiOrnek.MvcApplicationPartsAssemblyInfo.cache
