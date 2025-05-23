@@ -1,3 +1,6 @@
+using KullaniciWebApi.Models;
+using System.Collections.Generic;
+
 namespace KullaniciWebApi.Models
 {
     public class Word
